@@ -213,6 +213,7 @@ export const PlantaBaixa = () => {
             ) : (
                 <span>Nenhum cômodo selecionado</span>
             )}
+            <span className='text-white text-xs'>Desenvolvido por: Pablo Boing Pscheidt & Vinicius Vitório Rodrigues</span>
         </div>
     ) : (
         <p className="text-center text-xl font-bold">Carregando...</p>
